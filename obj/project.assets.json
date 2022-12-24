@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Core Fix\\source\\repos\\mohawone\\TASK TWO\\project 1\\project 1\\project 1.csproj",
-      "projectName": "project 1",
-      "projectPath": "C:\\Users\\Core Fix\\source\\repos\\mohawone\\TASK TWO\\project 1\\project 1\\project 1.csproj",
+      "projectUniqueName": "C:\\Users\\Core Fix\\source\\repos\\mohawone\\TASK TWO\\project 2\\project 2\\project 2.csproj",
+      "projectName": "project 2",
+      "projectPath": "C:\\Users\\Core Fix\\source\\repos\\mohawone\\TASK TWO\\project 2\\project 2\\project 2.csproj",
       "packagesPath": "C:\\Users\\Core Fix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Core Fix\\source\\repos\\mohawone\\TASK TWO\\project 1\\project 1\\obj\\",
+      "outputPath": "C:\\Users\\Core Fix\\source\\repos\\mohawone\\TASK TWO\\project 2\\project 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Core Fix\\AppData\\Roaming\\NuGet\\NuGet.Config",
